@@ -133,7 +133,7 @@ The project is optimized for deployment on [Vercel](https://vercel.com/). Ensure
 
 ## 📄 License
 
-This project is licensed under the MIT License.
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/) This project is licensed under the MIT License.
 
 ---
 
